@@ -7,6 +7,7 @@ See [this blog post](https://ryanfb.github.io/etc/2020/02/10/photius_the_bibliot
 ## Translated Entries
 
 * [185. Dionysius of Aegeae, *Dictyaca*](https://ryanfb.github.io/photios-bibliotheca/185)
+* [211. Dionysius of Aegeae, *Dictyaca*](https://ryanfb.github.io/photios-bibliotheca/211)
 
 ## LICENSE
 
