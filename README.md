@@ -10,7 +10,7 @@ The Greek edition used as the basis for translation is: R. Henry, *Photius. Bibl
 
 * [185. Dionysius of Aegeae, *Dictyaca*](https://ryanfb.github.io/photios-bibliotheca/185)
 * [211. Dionysius of Aegeae, *Dictyaca*](https://ryanfb.github.io/photios-bibliotheca/211)
-* [239. Proclus, *Select Information About Literature*](https://ryanfb.github.io/photios-bibliotheca/211)
+* [239. Proclus, *Select Information About Literature*](https://ryanfb.github.io/photios-bibliotheca/239)
 
 ## LICENSE
 
