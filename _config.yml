@@ -1,2 +1,19 @@
 title: "Photios' \"Bibliotheca\""
 description: "English translations of selected entries from the \"Bibliotheca\" of Photios"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-github-metadata
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+remote_theme: ryanfb/jekyll-theme-palaios
+owner:
+  name: Ryan Baumann
+  first_name: Ryan
+  last_name: Baumann
+  email: ryan.baumann@gmail.com
+  twitter: ryanfb
+  gravatar_url: http://www.gravatar.com/avatar/5c60848658ff9b47c42196635fe0449b.jpg
